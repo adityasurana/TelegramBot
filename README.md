@@ -9,4 +9,4 @@ Such as :-
 
 @ Adding Users to Groups / Channels on telegram
 
-@ Sending messages to Users or Groups / Channels on telegram
+@ Sending messages to Users or Groups / Channels on telegram in Bulk
